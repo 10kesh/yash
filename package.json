@@ -1,0 +1,36 @@
+{
+  "name": "demo.api.mk.kmphitech",
+  "version": "1.0.0",
+  "description": "Mk Team",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "demo",
+    "api",
+    "by",
+    "kmphitech"
+  ],
+  "author": "Mk Malani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "joi": "^17.7.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth": "^2.0.0",
+    "q": "^1.5.1",
+    "stripe": "^11.18.0"
+  }
+}
